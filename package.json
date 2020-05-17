@@ -1,0 +1,28 @@
+{
+  "name": "mstranslator",
+  "version": "1.0.0",
+  "description": "api for mstranslator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/correcte12/msTranslator.git"
+  },
+  "keywords": [
+    "api",
+    "translator",
+    "traductor"
+  ],
+  "author": "charly brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/correcte12/msTranslator/issues"
+  },
+  "homepage": "https://github.com/correcte12/msTranslator#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "uuidv4": "^6.0.8"
+  }
+}

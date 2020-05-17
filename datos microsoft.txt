@@ -1,0 +1,11 @@
+Evaluar fácilmente las opiniones y temas para comprender lo que los usuarios quieren
+5.000 transacciones al mes.
+
+Puntos de conexión
+https://westcentralus.api.cognitive.microsoft.com/text/analytics
+https://westcentralus.api.cognitive.microsoft.com/text/analytics
+https://westcentralus.api.cognitive.microsoft.com/text/analytics
+
+Clave 1: b901a419a1274580ba98f4cb8da4b82b
+
+Clave 2: e75c6addfc7b4a44b02f8b9438de9c1a

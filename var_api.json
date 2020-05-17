@@ -1,0 +1,10 @@
+{
+    "development": {
+      "TRANSLATOR_TEXT_SUBSCRIPTION_KEY": "b901a419a1274580ba98f4cb8da4b82b",
+      "TRANSLATOR_TEXT_ENDPOINT": "https://westcentralus.api.cognitive.microsoft.com/text/analytics"
+    },
+    "production": {
+      "TRANSLATOR_TEXT_SUBSCRIPTION_KEY": "b901a419a1274580ba98f4cb8da4b82b",
+      "TRANSLATOR_TEXT_ENDPOINT": "https://westcentralus.api.cognitive.microsoft.com/text/analytics"
+    }
+  }
